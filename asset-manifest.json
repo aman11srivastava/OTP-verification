@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/OTP-verification/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/OTP-verification/static/js/main.7b8d6564.chunk.js",
+    "main.js.map": "/OTP-verification/static/js/main.7b8d6564.chunk.js.map",
+    "runtime-main.js": "/OTP-verification/static/js/runtime-main.5c0d6c7c.js",
+    "runtime-main.js.map": "/OTP-verification/static/js/runtime-main.5c0d6c7c.js.map",
+    "static/js/2.b1bc44fc.chunk.js": "/OTP-verification/static/js/2.b1bc44fc.chunk.js",
+    "static/js/2.b1bc44fc.chunk.js.map": "/OTP-verification/static/js/2.b1bc44fc.chunk.js.map",
+    "index.html": "/OTP-verification/index.html",
+    "precache-manifest.b25f2d6a40f296327ccfc54ce6016351.js": "/OTP-verification/precache-manifest.b25f2d6a40f296327ccfc54ce6016351.js",
+    "service-worker.js": "/OTP-verification/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/OTP-verification/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.b1bc44fc.chunk.js.LICENSE.txt": "/OTP-verification/static/js/2.b1bc44fc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c0d6c7c.js",
+    "static/js/2.b1bc44fc.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.7b8d6564.chunk.js"
+  ]
+}
