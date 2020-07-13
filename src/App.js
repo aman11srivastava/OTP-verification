@@ -1,12 +1,11 @@
 import React, { Component } from 'react'
 import firebase from './firebase'
 export class App extends Component {
-
   handleClick = () => {
     let recaptcha = new firebase.auth.RecaptchaVerifier('recaptcha');
-    let number = '+919899336439';
+    let number = '+918130321587';
     firebase.auth().signInWithPhoneNumber(number, recaptcha).then( function(e) {
-      let code = prompt('Enter the otp', '');
+      let code = prompt('Enter the OTP', '');
         if(code === null) return;
         e.confirm(code).then(function (result) {
             console.log(result.user);
@@ -22,7 +21,7 @@ export class App extends Component {
   render() {
     return (
       <div>
-           <label></label>
+        <label></label>
         <div id="recaptcha"></div>
         <button onClick={this.handleClick}>Click to generate OTP</button>
       </div>
